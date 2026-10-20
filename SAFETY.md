@@ -60,3 +60,7 @@ If a link becomes malicious, misleading, broken, or inappropriate, open an issue
 ## Abuse-prone services
 
 Some links in this directory relate to IP logging, identity lookup, or call-bombing services. They are listed for awareness and security education, not as endorsements. Do not use them to harass, impersonate, track, or collect data about anyone without permission. Prefer consent-based testing in a controlled environment.
+
+## Directory categories and third-party link hubs
+
+Categories describe a site's primary apparent purpose, not an endorsement. Entertainment directories and streaming-link aggregators belong under entertainment/media, not developer tools. A directory may link to external destinations with different risk profiles; do not assume every linked site is safe or lawful. Check the destination URL before opening it, avoid unexpected downloads and login prompts, and use reputable security scanning services when uncertain.

@@ -27,31 +27,35 @@ A curated directory for developers, learners, makers, and curious internet explo
 - 🧑‍💻 Open-source projects and developer profiles
 - 🔥 A separate [GitHub Trending watchlist](TRENDING.md)
 - 🎨 UI, design, graphics, and productivity resources
+- 🎮 Entertainment, games, lifestyle sites, and everyday utilities in separate categories
 
 > **Note:** Links are collected for convenience. A listing is not an endorsement or a guarantee that a website is safe, accurate, free, or actively maintained. See [SAFETY.md](SAFETY.md).
 
 ## 📑 Table of Contents
 
-- [🤖 AI Tools & Discovery](#-ai-tools--discovery)
-- [💻 Developer Tools & Utilities](#-developer-tools--utilities)
-- [🛡️ Cybersecurity & Ethical Hacking](#️-cybersecurity--ethical-hacking)
-- [🔎 OSINT, Privacy & Digital Footprints](#-osint-privacy--digital-footprints)
+- [🤖 AI Tools & Discovery](#-ai-tools-discovery)
+- [💻 Developer Tools & Utilities](#-developer-tools-utilities)
+- [🛡️ Cybersecurity & Ethical Hacking](#-cybersecurity-ethical-hacking)
+- [🔎 OSINT, Privacy & Digital Footprints](#-osint-privacy-digital-footprints)
 - [📚 Learning Platforms](#-learning-platforms)
-- [🧑‍💻 GitHub Repositories & Developers](#-github-repositories--developers)
-- [🛰️ Space & Satellite Tracking](#️-space--satellite-tracking)
-- [🎬 Video & Media](#-video--media)
-- [🎮 Games & Entertainment](#-games--entertainment)
-- [🧑‍💼 Career & Jobs](#-career--jobs)
-- [🧠 Algorithms & Visualization](#-algorithms--visualization)
-- [🎨 UI, Design & Graphics](#-ui-design--graphics)
-- [🧰 APIs & Documentation](#-apis--documentation)
-- [📊 Productivity & Miscellaneous](#-productivity--miscellaneous)
-- [🔗 Additional Pages from the Original List](#-additional-pages-from-the-original-list)
+- [🧑‍💻 GitHub Repositories & Developers](#-github-repositories-developers)
+- [🛰️ Space & Satellite Tracking](#-space-satellite-tracking)
+- [🎬 Video & Media](#-video-media)
+- [🎮 Games & Entertainment](#-games-entertainment)
+- [🧑‍💼 Career & Jobs](#-career-jobs)
+- [🧠 Algorithms & Visualization](#-algorithms-visualization)
+- [🎨 UI, Design & Graphics](#-ui-design-graphics)
+- [🧰 APIs & Documentation](#-apis-documentation)
+- [🧾 Everyday Utilities & Document Tools](#-everyday-utilities-document-tools)
+- [🏠 Lifestyle & Everyday Websites](#-lifestyle-everyday-websites)
+- [📊 Productivity & Miscellaneous](#-productivity-miscellaneous)
 - [🤝 Contributing](#-contributing)
 
 ---
 
 ## 🤖 AI Tools & Discovery
+
+> AI assistants, model hubs, generative tools, and AI project discovery.
 
 <table>
 <tr>
@@ -60,14 +64,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://www.anthropic.com/"><strong>Anthropic</strong> ↗</a></h3>
 <p>↗ AI Tools &amp; Discovery</p>
 <p>Official information about Claude and Anthropic's AI work.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/Comfy-Org/ComfyUI"><strong>ComfyUI</strong> ↗</a></h3>
-<p>↗ AI Tools &amp; Discovery</p>
-<p>Node-based interface for building generative AI workflows.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -159,56 +155,35 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=theresanaiforthat.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://theresanaiforthat.com/s/dark+gpt/"><strong>There's An AI For That — Dark GPT Search</strong> ↗</a></h3>
+<p>↗ AI Tools &amp; Discovery</p>
+<p>A task-specific search page from the AI-tool directory. Treat results carefully and avoid tools intended for abuse or unauthorized access.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=veoaifree.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://veoaifree.com/"><strong>Veo AI Free</strong> ↗</a></h3>
 <p>↗ AI Tools &amp; Discovery</p>
 <p>Third-party site advertising AI video generation; verify ownership, terms, and privacy before use.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
+
+---
 
 ## 💻 Developer Tools & Utilities
 
+> Tools that directly help with coding, debugging, testing, building, and developer workflows.
+
 <table>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.4fnet.org&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.4fnet.org/"><strong>4FNet</strong> ↗</a></h3>
-<p>↗ Developer Tools &amp; Utilities</p>
-<p>Purpose not independently verified; inspect before relying on it.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.allsitehub.site&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.allsitehub.site/"><strong>AllSiteHub</strong> ↗</a></h3>
-<p>↗ Developer Tools &amp; Utilities</p>
-<p>Website directory/discovery resource; current content not independently verified.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=alternativeto.net&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://alternativeto.net/"><strong>AlternativeTo</strong> ↗</a></h3>
 <p>↗ Developer Tools &amp; Utilities</p>
 <p>Find alternatives to apps and services, including open-source options.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=armour.mobi&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://armour.mobi/"><strong>Armour</strong> ↗</a></h3>
-<p>↗ Developer Tools &amp; Utilities</p>
-<p>Purpose not independently verified; inspect before relying on it.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=calcsolver.net&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://calcsolver.net/"><strong>Calculator Solver</strong> ↗</a></h3>
-<p>↗ Developer Tools &amp; Utilities</p>
-<p>Online calculator/math-solving resource; check supported features on the site.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -236,6 +211,14 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=app.eraser.io&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://app.eraser.io/"><strong>Eraser</strong> ↗</a></h3>
+<p>↗ Developer Tools &amp; Utilities</p>
+<p>Technical diagrams, architecture sketches, and collaborative documentation.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=excalidraw.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://excalidraw.com/"><strong>Excalidraw</strong> ↗</a></h3>
@@ -252,14 +235,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://news.ycombinator.com/"><strong>Hacker News</strong> ↗</a></h3>
-<p>↗ Developer Tools &amp; Utilities</p>
-<p>Technology news, engineering discussions, and startup stories.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=hoppscotch.io&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://hoppscotch.io/"><strong>Hoppscotch</strong> ↗</a></h3>
@@ -273,6 +248,14 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://jsoncrack.com/"><strong>JSON Crack</strong> ↗</a></h3>
 <p>↗ Developer Tools &amp; Utilities</p>
 <p>Visualize JSON and supported structured data as graphs.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=markmap.js.org&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://markmap.js.org/repl"><strong>Markmap REPL</strong> ↗</a></h3>
+<p>↗ Developer Tools &amp; Utilities</p>
+<p>Convert Markdown outlines into interactive mind maps.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -322,19 +305,28 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>↗ Developer Tools &amp; Utilities</p>
 <p>Compare image formats and optimize images for websites.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
+
+---
 
 ## 🛡️ Cybersecurity & Ethical Hacking
 
-### Practice labs and learning
+> Security training, defensive tools, authorized labs, and security research.
 
 <table>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.callbomberz.in&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.callbomberz.in/"><strong>CallBomberz</strong> ↗</a></h3>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
+<p>Website advertising automated call bombing. Included for awareness only—not recommended for use against anyone; flooding a person's phone can cause harassment and disruption.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=cyberdefenders.org&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://cyberdefenders.org/"><strong>CyberDefenders</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Blue-team, digital-forensics, and incident-response challenges.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -342,7 +334,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.hackthebox.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.hackthebox.com/"><strong>Hack The Box</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Hands-on penetration-testing labs and challenges.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -350,7 +342,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=kc7cyber.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://kc7cyber.com/"><strong>KC7 Cyber</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Investigation-based learning for threat hunting and log analysis.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -358,15 +350,23 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=letsdefend.io&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://letsdefend.io/"><strong>LetsDefend</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>SOC analyst training and simulated incident investigations.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.maltego.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.maltego.com/"><strong>Maltego</strong> ↗</a></h3>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
+<p>Visual link analysis and intelligence gathering.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=overthewire.org&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://overthewire.org/wargames/"><strong>OverTheWire Wargames</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Command-line and security challenges for learning Linux and security fundamentals.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -374,7 +374,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=owasp.org&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://owasp.org/"><strong>OWASP</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Community resources, projects, and guidance for application security.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -382,15 +382,23 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=picoctf.org&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://picoctf.org/"><strong>picoCTF</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Capture-the-flag challenges for learning cybersecurity.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=portswigger.net&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
+<h3><a href="https://portswigger.net/"><strong>PortSwigger</strong> ↗</a></h3>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
+<p>Official website for PortSwigger's web-security tools and learning resources. See also the <a href="https://portswigger.net/web-security">Web Security Academy ↗</a>.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=portswigger.net&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
 <h3><a href="https://portswigger.net/web-security"><strong>PortSwigger Web Security Academy</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Free web-security lessons and interactive vulnerability labs.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -398,15 +406,31 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.root-me.org&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.root-me.org/"><strong>Root-Me</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Technical challenges across cybersecurity topics.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.shodan.io&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.shodan.io/"><strong>Shodan</strong> ↗</a></h3>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
+<p>Search engine for internet-connected devices and exposed services.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=spiderrfoot.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://spiderrfoot.com/"><strong>SpiderFoot Website</strong> ↗</a></h3>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
+<p>Website supplied in the original list. Verify the domain and current purpose before using it; the open-source project is <a href="https://github.com/smicallef/spiderfoot">available on GitHub ↗</a>.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=tcm-sec.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://tcm-sec.com/"><strong>TCM Security</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Practical cybersecurity training and professional education.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -414,67 +438,26 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=tryhackme.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://tryhackme.com/"><strong>TryHackMe</strong> ↗</a></h3>
-<p>↗ Practice labs and learning</p>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
 <p>Guided cybersecurity training and practical learning paths.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
 
-### Abuse-prone services & safety awareness
-
-<table>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.callbomberz.in&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.callbomberz.in/"><strong>CallBomberz</strong> ↗</a></h3>
-<p>↗ Abuse-prone services &amp; safety awareness</p>
-<p>Website advertising automated call bombing. Included for awareness only—not recommended for use against anyone; flooding a person's phone can cause harassment and disruption.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-</table>
-
-> **Safety note:** Do not use call/SMS bombing services to target other people. If you are receiving unwanted call or message floods, use your phone's spam protections and contact your carrier or the relevant cybercrime reporting service.
-
-### Security research tools
-
-<table>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.maltego.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.maltego.com/"><strong>Maltego</strong> ↗</a></h3>
-<p>↗ Security research tools</p>
-<p>Visual link analysis and intelligence gathering.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/sundowndev/phoneinfoga"><strong>PhoneInfoga</strong> ↗</a></h3>
-<p>↗ Security research tools</p>
-<p>Phone-number OSINT using available sources.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.shodan.io&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.shodan.io/"><strong>Shodan</strong> ↗</a></h3>
-<p>↗ Security research tools</p>
-<p>Search engine for internet-connected devices and exposed services.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/smicallef/spiderfoot"><strong>SpiderFoot project</strong> ↗</a></h3>
-<p>↗ Security research tools</p>
-<p>Open-source OSINT automation.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-</table>
+---
 
 ## 🔎 OSINT, Privacy & Digital Footprints
 
+> Privacy checks, public-information research, digital-footprint tools, and consent-aware investigations.
+
 <table>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=armour.mobi&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://armour.mobi/"><strong>Armour</strong> ↗</a></h3>
+<p>↗ OSINT, Privacy &amp; Digital Footprints</p>
+<p>Purpose not independently verified; inspect before relying on it.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=facecheck.id&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
@@ -506,34 +489,13 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>↗ OSINT, Privacy &amp; Digital Footprints</p>
 <p>Check whether an email address appears in known data breaches.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.maltego.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.maltego.com/"><strong>Maltego</strong> ↗</a></h3>
-<p>↗ OSINT, Privacy &amp; Digital Footprints</p>
-<p>Investigate relationships between entities using visual graphs.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/sundowndev/phoneinfoga"><strong>PhoneInfoga</strong> ↗</a></h3>
-<p>↗ OSINT, Privacy &amp; Digital Footprints</p>
-<p>Phone-number information gathering from available sources.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/ruvnet/ruview"><strong>RuView</strong> ↗</a></h3>
-<p>↗ OSINT, Privacy &amp; Digital Footprints</p>
-<p>Experimental Wi-Fi sensing and spatial-intelligence project; review the repository for current scope.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
 
+---
+
 ## 📚 Learning Platforms
+
+> Courses, structured curricula, educational content, and study resources.
 
 <table>
 <tr>
@@ -615,19 +577,20 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>↗ Learning Platforms</p>
 <p>Programming education and coding challenges.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
+
+---
 
 ## 🧑‍💻 GitHub Repositories & Developers
 
-### Useful repositories
+> Open-source projects, source code, and developer profiles. Some projects may also appear in their primary topic category when useful.
 
 <table>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/msitarzewski/agency-agents"><strong>Agency Agents</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Collection of role-oriented AI agents and workflows.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -635,7 +598,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/airbnb/javascript"><strong>Airbnb JavaScript Style Guide</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>JavaScript style conventions.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -643,7 +606,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/GoogleChrome/chrome-extensions-samples"><strong>Chrome Extension Samples</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Official Chrome extension examples.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -651,7 +614,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/anthropics/claude-plugins-official"><strong>Claude Plugins Official</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Official collection of Claude Code plugins.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -659,23 +622,31 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/Comfy-Org/ComfyUI"><strong>ComfyUI</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
-<p>Node-based generative AI workflows.</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
+<p>Node-based interface for building generative AI workflows.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/Graphify-Labs/graphify"><strong>Graphify</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Codebase and document knowledge-graph tooling; inspect current project status.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
+<h3><a href="https://github.com/grqz"><strong>grqz</strong> ↗</a></h3>
+<p>↗ GitHub Repositories &amp; Developers</p>
+<p>GitHub developer profile supplied in the original list. Review public repositories, activity, and project licenses.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
 <h3><a href="https://github.com/learning-zone/mongodb-interview-questions"><strong>MongoDB Interview Questions</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>MongoDB interview preparation.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -683,7 +654,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/learning-zone/nodejs-interview-questions"><strong>Node.js Interview Questions</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Node.js interview preparation.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -691,7 +662,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/anomalyco/opencode"><strong>OpenCode</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Open-source AI coding agent.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -699,15 +670,15 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/sundowndev/phoneinfoga"><strong>PhoneInfoga</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
-<p>Phone-number OSINT tooling.</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
+<p>Phone-number OSINT using available sources.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/sudheerj/reactjs-interview-questions"><strong>React Interview Questions</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>React concepts and interview questions.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -715,31 +686,39 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/thecodingmachine/react-native-boilerplate"><strong>React Native Boilerplate</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>React Native starter project.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://github.com/viraptor/reverse-interview"><strong>Reverse Interview</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
-<p>Questions candidates can ask employers in interviews.</p>
+<h3><a href="https://github.com/ruvnet/ruview"><strong>RuView</strong> ↗</a></h3>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
+<p>Experimental Wi-Fi sensing and spatial-intelligence project; review the repository for current scope.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://github.com/ruvnet/ruview"><strong>RuView</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
-<p>Wi-Fi sensing/spatial intelligence experimentation.</p>
+<h3><a href="https://github.com/smicallef/spiderfoot"><strong>SpiderFoot project</strong> ↗</a></h3>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
+<p>Open-source OSINT automation.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/stevietv"><strong>stevietv</strong> ↗</a></h3>
+<p>↗ GitHub Repositories &amp; Developers</p>
+<p>GitHub developer profile supplied in the original list. Review public repositories, activity, and project licenses.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/CoffeelessProgrammer/Data-Structures-and-Algorithms-TS"><strong>TypeScript DSA</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Data structures and algorithms implemented in TypeScript.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -747,28 +726,32 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://github.com/vllm-project/vllm"><strong>vLLM</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
+<p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>High-throughput large language model inference and serving.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo"><strong>ZTM Coding Interview Mastery</strong> ↗</a></h3>
-<p>↗ Useful repositories</p>
-<p>Data structures, algorithms, and interview preparation.</p>
+<h3><a href="https://github.com/witherornot"><strong>witherornot</strong> ↗</a></h3>
+<p>↗ GitHub Repositories &amp; Developers</p>
+<p>GitHub developer profile supplied in the original list. Review public repositories, activity, and project licenses.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/yuliskov"><strong>yuliskov</strong> ↗</a></h3>
+<p>↗ GitHub Repositories &amp; Developers</p>
+<p>GitHub developer profile supplied in the original list. Review public repositories, activity, and project licenses.</p>
+</td></tr>
 </table>
 
-### Developer profiles
-
-- [stevietv](https://github.com/stevietv)
-- [yuliskov](https://github.com/yuliskov)
-- [witherornot](https://github.com/witherornot)
-- [grqz](https://github.com/grqz)
+---
 
 ## 🛰️ Space & Satellite Tracking
+
+> Satellite tracking, orbital visualizations, and space-related live experiences.
 
 <table>
 <tr>
@@ -810,12 +793,13 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>↗ Space &amp; Satellite Tracking</p>
 <p>Sky-related visualization; current functionality not independently verified.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
 
-> Check session-specific links before publishing them publicly. Remove them if they reveal private activity or are not meant to be shared.
+---
 
 ## 🎬 Video & Media
+
+> Media discovery, video infrastructure, media utilities, and streaming-related resources.
 
 <table>
 <tr>
@@ -857,20 +841,31 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>↗ Video &amp; Media</p>
 <p>Text match-cut video creation.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=veoaifree.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://veoaifree.com/"><strong>Veo AI Free</strong> ↗</a></h3>
-<p>↗ Video &amp; Media</p>
-<p>Third-party AI video-generation site; verify provider affiliation and privacy terms.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
+
+---
 
 ## 🎮 Games & Entertainment
 
+> Games, entertainment directories, and leisure websites; not developer tools.
+
 <table>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.4fnet.org&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.4fnet.org/"><strong>4FNet</strong> ↗</a></h3>
+<p>↗ Games &amp; Entertainment</p>
+<p>Purpose not independently verified; inspect before relying on it.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.allsitehub.site&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.allsitehub.site/"><strong>AllSiteHub</strong> ↗</a></h3>
+<p>↗ Games &amp; Entertainment</p>
+<p>Website directory/discovery resource; current content not independently verified.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=busdriver.wtf&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
@@ -894,19 +889,20 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>↗ Games &amp; Entertainment</p>
 <p>Current purpose not independently verified.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
+
+---
 
 ## 🧑‍💼 Career & Jobs
 
-### Resume and interview resources
+> Resumes, interview preparation, job boards, and professional networking.
 
 <table>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.cakeresume.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.cakeresume.com/Engineering-resume-samples"><strong>CakeResume Engineering Samples</strong> ↗</a></h3>
-<p>↗ Resume and interview resources</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Engineering resume examples.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -914,23 +910,39 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=app.enhancv.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://app.enhancv.com/resume/new?preloaded=true"><strong>Enhancv</strong> ↗</a></h3>
-<p>↗ Resume and interview resources</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Resume builder with customizable layouts.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://news.ycombinator.com/item?id=17902901"><strong>Hacker News job discussion</strong> ↗</a></h3>
+<p>↗ 💼 Career &amp; Jobs</p>
+<p>Older discussion link, not a current dedicated jobs board.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.jobscan.co&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.jobscan.co/resume-templates"><strong>Jobscan Resume Templates</strong> ↗</a></h3>
-<p>↗ Resume and interview resources</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Resume templates and ATS-focused guidance.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.meetup.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.meetup.com/"><strong>Meetup</strong> ↗</a></h3>
+<p>↗ 💼 Career &amp; Jobs</p>
+<p>Find local tech events and professional communities.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.edureka.co&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/"><strong>Node.js Interview Questions — Edureka</strong> ↗</a></h3>
-<p>↗ Resume and interview resources</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Node.js interview article; supplement older content with current references.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -938,7 +950,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.fullstack.cafe&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.fullstack.cafe/interview-questions/nodejs"><strong>Node.js Interview Questions — Fullstack Café</strong> ↗</a></h3>
-<p>↗ Resume and interview resources</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Node.js interview questions.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -946,44 +958,31 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.profileme.dev&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.profileme.dev/"><strong>ProfileMe.dev</strong> ↗</a></h3>
-<p>↗ Resume and interview resources</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Generate a GitHub profile README.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-</table>
-
-### Job boards and networking
-
-<table>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://news.ycombinator.com/item?id=17902901"><strong>Hacker News job discussion</strong> ↗</a></h3>
-<p>↗ Job boards and networking</p>
-<p>Older discussion link, not a current dedicated jobs board.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.meetup.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.meetup.com/"><strong>Meetup</strong> ↗</a></h3>
-<p>↗ Job boards and networking</p>
-<p>Find local tech events and professional communities.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=remoteok.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://remoteok.com/"><strong>Remote OK</strong> ↗</a></h3>
-<p>↗ Job boards and networking</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Remote job board.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/viraptor/reverse-interview"><strong>Reverse Interview</strong> ↗</a></h3>
+<p>↗ 💼 Career &amp; Jobs</p>
+<p>Questions candidates can ask employers in interviews.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=weworkremotely.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://weworkremotely.com/"><strong>We Work Remotely</strong> ↗</a></h3>
-<p>↗ Job boards and networking</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Remote job listings.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -991,7 +990,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=wellfound.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://wellfound.com/jobs"><strong>Wellfound</strong> ↗</a></h3>
-<p>↗ Job boards and networking</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Startup jobs and opportunities.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -999,7 +998,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=whitetruffle.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://whitetruffle.com/"><strong>White Truffle</strong> ↗</a></h3>
-<p>↗ Job boards and networking</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>Recruiting/job-matching service; check current availability.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1007,13 +1006,24 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.ziprecruiter.in&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.ziprecruiter.in/"><strong>ZipRecruiter India</strong> ↗</a></h3>
-<p>↗ Job boards and networking</p>
+<p>↗ 💼 Career &amp; Jobs</p>
 <p>India-oriented job-search destination; verify current availability.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo"><strong>ZTM Coding Interview Mastery</strong> ↗</a></h3>
+<p>↗ 💼 Career &amp; Jobs</p>
+<p>Data structures, algorithms, and interview preparation.</p>
+</td></tr>
 </table>
 
+---
+
 ## 🧠 Algorithms & Visualization
+
+> Interactive visualizations for algorithms, data structures, tokens, and mathematical concepts.
 
 <table>
 <tr>
@@ -1038,14 +1048,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://www.cs.usfca.edu/~galles/visualization/CountingSort.html"><strong>Counting Sort Visualization</strong> ↗</a></h3>
 <p>↗ Algorithms &amp; Visualization</p>
 <p>Step-by-step counting sort visualization.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=matrixmultiplication.xyz&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://matrixmultiplication.xyz/"><strong>Matrix Multiplication</strong> ↗</a></h3>
-<p>↗ Algorithms &amp; Visualization</p>
-<p>Interactive matrix multiplication resource.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -1103,19 +1105,28 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>↗ Algorithms &amp; Visualization</p>
 <p>Interactive algorithm and data-structure visualizations.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
+
+---
 
 ## 🎨 UI, Design & Graphics
 
-### Components and templates
+> Design systems, UI components, icons, image assets, and visual design tools.
 
 <table>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=bennettfeely.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://bennettfeely.com/clippy/"><strong>Clippy</strong> ↗</a></h3>
+<p>↗ UI, Design &amp; Graphics</p>
+<p>Visual CSS clip-path generator.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.creative-tim.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.creative-tim.com/bootstrap-themes/ui-kit"><strong>Creative Tim</strong> ↗</a></h3>
-<p>↗ Components and templates</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>UI kits, themes, and frontend templates.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1123,7 +1134,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=cruip.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://cruip.com/"><strong>Cruip</strong> ↗</a></h3>
-<p>↗ Components and templates</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Landing-page templates and UI kits.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1131,15 +1142,23 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=ecomm.design&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://ecomm.design/ecommerce-website-templates/"><strong>Ecomm.design</strong> ↗</a></h3>
-<p>↗ Components and templates</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Ecommerce design inspiration and templates.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=emojidb.org&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://emojidb.org/visualization-emojis"><strong>EmojiDB</strong> ↗</a></h3>
+<p>↗ UI, Design &amp; Graphics</p>
+<p>Searchable emoji collection.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=flowbite.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://flowbite.com/"><strong>Flowbite</strong> ↗</a></h3>
-<p>↗ Components and templates</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Tailwind CSS components and UI resources.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1147,52 +1166,15 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=headlessui.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://headlessui.com/"><strong>Headless UI</strong> ↗</a></h3>
-<p>↗ Components and templates</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Accessible, unstyled UI components.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=mdbootstrap.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://mdbootstrap.com/freebies/"><strong>MDBootstrap Freebies</strong> ↗</a></h3>
-<p>↗ Components and templates</p>
-<p>Free UI resources and components.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=tailwindcomponents.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://tailwindcomponents.com/components"><strong>Tailwind Components</strong> ↗</a></h3>
-<p>↗ Components and templates</p>
-<p>Community Tailwind CSS snippets and components.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-</table>
-
-### Icons and graphics
-
-<table>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=bennettfeely.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://bennettfeely.com/clippy/"><strong>Clippy</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
-<p>Visual CSS clip-path generator.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=emojidb.org&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://emojidb.org/visualization-emojis"><strong>EmojiDB</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
-<p>Searchable emoji collection.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=heroicons.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://heroicons.com/"><strong>Heroicons</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>SVG icons for modern interfaces.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1200,7 +1182,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=hugeicons.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://hugeicons.com/"><strong>Hugeicons</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Icon library for interfaces.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1208,7 +1190,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.iconfinder.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.iconfinder.com/search?q=bill&amp;price=free"><strong>Iconfinder</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Search free and commercial icons.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1216,7 +1198,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=linea.io&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://linea.io/"><strong>Linea Icons</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Minimal line icons.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1224,15 +1206,23 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=looka.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://looka.com/"><strong>Looka</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Logo design and branding tools.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=mdbootstrap.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://mdbootstrap.com/freebies/"><strong>MDBootstrap Freebies</strong> ↗</a></h3>
+<p>↗ UI, Design &amp; Graphics</p>
+<p>Free UI resources and components.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=mybrandnewlogo.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://mybrandnewlogo.com/"><strong>MyBrandNewLogo</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Online logo design tool.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1240,7 +1230,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=gradients.shecodes.io&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://gradients.shecodes.io/gradients/835#gradient"><strong>SheCodes Gradients</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Gradient inspiration for design projects.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1248,15 +1238,23 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=svgicons.sparkk.fr&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="http://svgicons.sparkk.fr/"><strong>SVG Icons Generator</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>SVG icon resource; verify current availability.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=tailwindcomponents.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://tailwindcomponents.com/components"><strong>Tailwind Components</strong> ↗</a></h3>
+<p>↗ UI, Design &amp; Graphics</p>
+<p>Community Tailwind CSS snippets and components.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=unsplash.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://unsplash.com/"><strong>Unsplash</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>Photography and stock images; check license terms.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
@@ -1264,13 +1262,16 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=vecta.io&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://vecta.io/nano"><strong>Vecta Nano</strong> ↗</a></h3>
-<p>↗ Icons and graphics</p>
+<p>↗ UI, Design &amp; Graphics</p>
 <p>SVG optimization and vector graphics.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
 
+---
+
 ## 🧰 APIs & Documentation
+
+> API references, official documentation, SDK resources, and platform administration.
 
 <table>
 <tr>
@@ -1287,14 +1288,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://auth0.com/docs/api/management/v2"><strong>Auth0 Management API</strong> ↗</a></h3>
 <p>↗ APIs &amp; Documentation</p>
 <p>Manage Auth0 resources through APIs.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/GoogleChrome/chrome-extensions-samples"><strong>Chrome Extension Samples</strong> ↗</a></h3>
-<p>↗ APIs &amp; Documentation</p>
-<p>Official Chrome extension examples.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -1343,14 +1336,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://education.github.com/git-cheat-sheet-education.pdf"><strong>Git Cheat Sheet</strong> ↗</a></h3>
 <p>↗ APIs &amp; Documentation</p>
 <p>Quick reference for common Git commands.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=docs.github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners"><strong>GitHub CODEOWNERS documentation</strong> ↗</a></h3>
-<p>↗ APIs &amp; Documentation</p>
-<p>Configure code ownership in repositories.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -1418,14 +1403,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/thecodingmachine/react-native-boilerplate"><strong>React Native Boilerplate</strong> ↗</a></h3>
-<p>↗ APIs &amp; Documentation</p>
-<p>React Native starter project.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=serpapi.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://serpapi.com/"><strong>SerpAPI</strong> ↗</a></h3>
@@ -1448,26 +1425,21 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>↗ APIs &amp; Documentation</p>
 <p>Interactive exploration of Git history.</p>
 </td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
+
+---
 
 ## 📊 Productivity & Miscellaneous
 
+> General-purpose productivity and reference resources that do not fit a more specific category.
+
 <table>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=calcsolver.net&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://github.com/airbnb/javascript"><strong>Airbnb JavaScript Style Guide</strong> ↗</a></h3>
+<h3><a href="https://calcsolver.net/"><strong>Calculator Solver</strong> ↗</a></h3>
 <p>↗ Productivity &amp; Miscellaneous</p>
-<p>JavaScript coding conventions.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=archive.org&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://archive.org/"><strong>Archive.org</strong> ↗</a></h3>
-<p>↗ Productivity &amp; Miscellaneous</p>
-<p>Digital library and web archive.</p>
+<p>Online calculator/math-solving resource; check supported features on the site.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -1479,19 +1451,27 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=app.eraser.io&sz=128" width="72" height="72" alt="" /></td>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=docs.github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://app.eraser.io/"><strong>Eraser</strong> ↗</a></h3>
+<h3><a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners"><strong>GitHub CODEOWNERS documentation</strong> ↗</a></h3>
 <p>↗ Productivity &amp; Miscellaneous</p>
-<p>Technical diagrams, architecture sketches, and collaborative documentation.</p>
+<p>Configure code ownership in repositories.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=markmap.js.org&sz=128" width="72" height="72" alt="" /></td>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://markmap.js.org/repl"><strong>Markmap REPL</strong> ↗</a></h3>
+<h3><a href="https://news.ycombinator.com/"><strong>Hacker News</strong> ↗</a></h3>
 <p>↗ Productivity &amp; Miscellaneous</p>
-<p>Convert Markdown outlines into interactive mind maps.</p>
+<p>Technology news, engineering discussions, and startup stories.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=matrixmultiplication.xyz&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://matrixmultiplication.xyz/"><strong>Matrix Multiplication</strong> ↗</a></h3>
+<p>↗ Productivity &amp; Miscellaneous</p>
+<p>Interactive matrix multiplication resource.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -1508,46 +1488,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://app.mural.co/"><strong>Mural</strong> ↗</a></h3>
 <p>↗ Productivity &amp; Miscellaneous</p>
 <p>Collaborative online whiteboard.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-</table>
-
-
-## 🔗 Additional Pages from the Original List
-
-> Extra destinations from the original collection. Entries are alphabetically sorted by name; alternate pages from the same service are grouped together to avoid duplicate service cards.
-
-<table>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=grabify.org&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://grabify.org/"><strong>Grabify</strong> ↗</a></h3>
-<p>↗ OSINT, Privacy &amp; Digital Footprints</p>
-<p>IP-logging link service. Use only with informed consent. <a href="https://grabify.link/login">Alternate login page ↗</a></p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=portswigger.net&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://portswigger.net/"><strong>PortSwigger</strong> ↗</a></h3>
-<p>↗ Cybersecurity &amp; Ethical Hacking</p>
-<p>Official website for PortSwigger's web-security tools and learning resources. See also the <a href="https://portswigger.net/web-security">Web Security Academy ↗</a>.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=spiderrfoot.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://spiderrfoot.com/"><strong>SpiderFoot Website</strong> ↗</a></h3>
-<p>↗ OSINT &amp; Security Research</p>
-<p>Website supplied in the original list. Verify the domain and current purpose before using it; the open-source project is <a href="https://github.com/smicallef/spiderfoot">available on GitHub ↗</a>.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=theresanaiforthat.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://theresanaiforthat.com/s/dark+gpt/"><strong>There's An AI For That — Dark GPT Search</strong> ↗</a></h3>
-<p>↗ AI Tools &amp; Discovery</p>
-<p>A task-specific search page from the AI-tool directory. Treat results carefully and avoid tools intended for abuse or unauthorized access.</p>
 </td></tr>
 </table>
 

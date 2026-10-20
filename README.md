@@ -774,27 +774,12 @@ A curated directory for developers, learners, makers, and curious internet explo
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://stowaway.live/sky/ride/MWB7JGU5EUDZDPT"><strong>Stowaway ride — MWB7JGU5EUDZDPT</strong> ↗</a></h3>
+<h3><a href="https://stowaway.live/"><strong>Stowaway ride</strong> ↗</a></h3>
 <p>↗ Space &amp; Satellite Tracking</p>
 <p>Specific ride/session URL; may be temporary or personal.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://stowaway.live/sky/ride/Y67FFMTAGBP9"><strong>Stowaway ride — Y67FFMTAGBP9</strong> ↗</a></h3>
-<p>↗ Space &amp; Satellite Tracking</p>
-<p>Specific ride/session URL; may be temporary or personal.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://stowaway.live/sky/"><strong>Stowaway Sky</strong> ↗</a></h3>
-<p>↗ Space &amp; Satellite Tracking</p>
-<p>Sky-related visualization; current functionality not independently verified.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 </table>
 
 > Check session-specific links before publishing them publicly. Remove them if they reveal private activity or are not meant to be shared.

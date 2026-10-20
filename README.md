@@ -71,7 +71,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td valign="middle">
 <h3><a href="https://app.emergent.sh/landing/"><strong>Emergent</strong> ↗</a></h3>
 <p>↗ AI Tools &amp; Discovery</p>
-<p>AI-assisted application building. Check current capabilities and plans.</p>
+<p>Start building your own Inventory Tool for free!</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -79,7 +79,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td valign="middle">
 <h3><a href="https://www.futuretools.io/"><strong>Future Tools</strong> ↗</a></h3>
 <p>↗ AI Tools &amp; Discovery</p>
-<p>Discover AI applications across categories.</p>
+<p>The latest AI news, expert commentary, top tools, and exclusive interviews — curated for you by Matt Wolfe.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -111,7 +111,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td valign="middle">
 <h3><a href="https://lablab.ai/"><strong>LabLab AI</strong> ↗</a></h3>
 <p>↗ AI Tools &amp; Discovery</p>
-<p>AI hackathons, community projects, and hands-on building.</p>
+<p>AI hackathons, community projects, and hands-on building. Community of Makers, building with state-of-the-art, modern Artificial Intelligence. Join a Hackathon event today!</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -119,7 +119,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 <td valign="middle">
 <h3><a href="https://www.modular.com/"><strong>Modular</strong> ↗</a></h3>
 <p>↗ AI Tools &amp; Discovery</p>
-<p>AI infrastructure and high-performance computing technologies.</p>
+<p>AI infrastructure and high-performance computing technologies for AI.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -395,14 +395,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=portswigger.net&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://portswigger.net/web-security"><strong>PortSwigger Web Security Academy</strong> ↗</a></h3>
-<p>↗ Cybersecurity &amp; Ethical Hacking</p>
-<p>Free web-security lessons and interactive vulnerability labs.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.root-me.org&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.root-me.org/"><strong>Root-Me</strong> ↗</a></h3>
@@ -498,22 +490,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 > Courses, structured curricula, educational content, and study resources.
 
 <table>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.coursera.org&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.coursera.org/"><strong>Coursera</strong> ↗</a></h3>
-<p>↗ Learning Platforms</p>
-<p>Courses and professional learning programs from universities and organizations.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.edureka.co&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.edureka.co/"><strong>Edureka</strong> ↗</a></h3>
-<p>↗ Learning Platforms</p>
-<p>Technology courses and professional training.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.freecodecamp.org&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
@@ -645,22 +621,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://github.com/learning-zone/mongodb-interview-questions"><strong>MongoDB Interview Questions</strong> ↗</a></h3>
-<p>↗ 💻 GitHub Repositories &amp; Developers</p>
-<p>MongoDB interview preparation.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/learning-zone/nodejs-interview-questions"><strong>Node.js Interview Questions</strong> ↗</a></h3>
-<p>↗ 💻 GitHub Repositories &amp; Developers</p>
-<p>Node.js interview preparation.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
 <h3><a href="https://github.com/anomalyco/opencode"><strong>OpenCode</strong> ↗</a></h3>
 <p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Open-source AI coding agent.</p>
@@ -672,22 +632,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://github.com/sundowndev/phoneinfoga"><strong>PhoneInfoga</strong> ↗</a></h3>
 <p>↗ 💻 GitHub Repositories &amp; Developers</p>
 <p>Phone-number OSINT using available sources.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/sudheerj/reactjs-interview-questions"><strong>React Interview Questions</strong> ↗</a></h3>
-<p>↗ 💻 GitHub Repositories &amp; Developers</p>
-<p>React concepts and interview questions.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/thecodingmachine/react-native-boilerplate"><strong>React Native Boilerplate</strong> ↗</a></h3>
-<p>↗ 💻 GitHub Repositories &amp; Developers</p>
-<p>React Native starter project.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -712,14 +656,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://github.com/stevietv"><strong>stevietv</strong> ↗</a></h3>
 <p>↗ GitHub Repositories &amp; Developers</p>
 <p>GitHub developer profile supplied in the original list. Review public repositories, activity, and project licenses.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/CoffeelessProgrammer/Data-Structures-and-Algorithms-TS"><strong>TypeScript DSA</strong> ↗</a></h3>
-<p>↗ 💻 GitHub Repositories &amp; Developers</p>
-<p>Data structures and algorithms implemented in TypeScript.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -757,42 +693,19 @@ A curated directory for developers, learners, makers, and curious internet explo
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=platform.leolabs.space&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://platform.leolabs.space/visualizations/leo"><strong>LeoLabs LEO Visualization</strong> ↗</a></h3>
+<h3><a href="https://platform.leolabs.space/"><strong>LeoLabs LEO Visualization</strong> ↗</a></h3>
 <p>↗ Space &amp; Satellite Tracking</p>
 <p>Low-Earth orbit visualization associated with LeoLabs.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=platform.leolabs.space&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://platform.leolabs.space/visualization"><strong>LeoLabs Visualization</strong> ↗</a></h3>
-<p>↗ Space &amp; Satellite Tracking</p>
-<p>LeoLabs visualization destination; check current availability.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://stowaway.live/sky/ride/MWB7JGU5EUDZDPT"><strong>Stowaway ride — MWB7JGU5EUDZDPT</strong> ↗</a></h3>
+<h3><a href="https://stowaway.live/"><strong>Stowaway ride</strong> ↗</a></h3>
 <p>↗ Space &amp; Satellite Tracking</p>
 <p>Specific ride/session URL; may be temporary or personal.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://stowaway.live/sky/ride/Y67FFMTAGBP9"><strong>Stowaway ride — Y67FFMTAGBP9</strong> ↗</a></h3>
-<p>↗ Space &amp; Satellite Tracking</p>
-<p>Specific ride/session URL; may be temporary or personal.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://stowaway.live/sky/"><strong>Stowaway Sky</strong> ↗</a></h3>
-<p>↗ Space &amp; Satellite Tracking</p>
-<p>Sky-related visualization; current functionality not independently verified.</p>
-</td></tr>
 </table>
 
 ---
@@ -824,14 +737,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://www.mux.com/"><strong>Mux</strong> ↗</a></h3>
 <p>↗ Video &amp; Media</p>
 <p>Video infrastructure, streaming, and APIs.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=with-mux-video.vercel.app&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://with-mux-video.vercel.app/"><strong>Mux Video Demo</strong> ↗</a></h3>
-<p>↗ Video &amp; Media</p>
-<p>Example video experience using Mux.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -872,6 +777,22 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://busdriver.wtf/"><strong>BusDriver</strong> ↗</a></h3>
 <p>↗ Games &amp; Entertainment</p>
 <p>Current purpose not independently verified.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=calcsolver.net&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://calcsolver.net/"><strong>Calculator Solver</strong> ↗</a></h3>
+<p>↗ Productivity &amp; Miscellaneous</p>
+<p>Online calculator/math-solving resource; check supported features on the site.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=deluxsalon.in&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://deluxsalon.in/"><strong>Delux Salon</strong> ↗</a></h3>
+<p>↗ Productivity &amp; Miscellaneous</p>
+<p>Salon-related website; verify current services and business details.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -939,22 +860,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.edureka.co&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/"><strong>Node.js Interview Questions — Edureka</strong> ↗</a></h3>
-<p>↗ 💼 Career &amp; Jobs</p>
-<p>Node.js interview article; supplement older content with current references.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.fullstack.cafe&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.fullstack.cafe/interview-questions/nodejs"><strong>Node.js Interview Questions — Fullstack Café</strong> ↗</a></h3>
-<p>↗ 💼 Career &amp; Jobs</p>
-<p>Node.js interview questions.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.profileme.dev&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://www.profileme.dev/"><strong>ProfileMe.dev</strong> ↗</a></h3>
@@ -1010,13 +915,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 <p>India-oriented job-search destination; verify current availability.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo"><strong>ZTM Coding Interview Mastery</strong> ↗</a></h3>
-<p>↗ 💼 Career &amp; Jobs</p>
-<p>Data structures, algorithms, and interview preparation.</p>
-</td></tr>
 </table>
 
 ---
@@ -1029,9 +927,9 @@ A curated directory for developers, learners, makers, and curious internet explo
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.cs.usfca.edu&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://www.cs.usfca.edu/~galles/visualization/AVLtree.html"><strong>AVL Tree Visualizer</strong> ↗</a></h3>
+<h3><a href="https://www.cs.usfca.edu/~galles/visualization/"><strong>Data Structure Visualizations</strong> ↗</a></h3>
 <p>↗ Algorithms &amp; Visualization</p>
-<p>Explore AVL tree operations and balancing.</p>
+<p>Explore Data Structure Visualizations.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -1043,35 +941,11 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.cs.usfca.edu&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.cs.usfca.edu/~galles/visualization/CountingSort.html"><strong>Counting Sort Visualization</strong> ↗</a></h3>
-<p>↗ Algorithms &amp; Visualization</p>
-<p>Step-by-step counting sort visualization.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=atlas.nomic.ai&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://atlas.nomic.ai/data/andrewgao22/met-embedded/map"><strong>Nomic Atlas example</strong> ↗</a></h3>
 <p>↗ Algorithms &amp; Visualization</p>
 <p>Example of an interactive embedding map.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.cs.usfca.edu&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.cs.usfca.edu/~galles/visualization/RadixSort.html"><strong>Radix Sort Visualization</strong> ↗</a></h3>
-<p>↗ Algorithms &amp; Visualization</p>
-<p>Radix sort visualization.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.cs.usfca.edu&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://www.cs.usfca.edu/~galles/visualization/RedBlack.html"><strong>Red-Black Tree Visualizer</strong> ↗</a></h3>
-<p>↗ Algorithms &amp; Visualization</p>
-<p>Explore red-black tree operations and balancing.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -1283,14 +1157,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=auth0.com&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://auth0.com/docs/api/management/v2"><strong>Auth0 Management API</strong> ↗</a></h3>
-<p>↗ APIs &amp; Documentation</p>
-<p>Manage Auth0 resources through APIs.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=dash.cloudflare.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://dash.cloudflare.com/"><strong>Cloudflare Dashboard</strong> ↗</a></h3>
@@ -1435,22 +1301,6 @@ A curated directory for developers, learners, makers, and curious internet explo
 
 <table>
 <tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=calcsolver.net&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://calcsolver.net/"><strong>Calculator Solver</strong> ↗</a></h3>
-<p>↗ Productivity &amp; Miscellaneous</p>
-<p>Online calculator/math-solving resource; check supported features on the site.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
-<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=deluxsalon.in&sz=128" width="72" height="72" alt="" /></td>
-<td valign="middle">
-<h3><a href="https://deluxsalon.in/"><strong>Delux Salon</strong> ↗</a></h3>
-<p>↗ Productivity &amp; Miscellaneous</p>
-<p>Salon-related website; verify current services and business details.</p>
-</td></tr>
-<tr><td colspan="2"><hr /></td></tr>
-<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=docs.github.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners"><strong>GitHub CODEOWNERS documentation</strong> ↗</a></h3>
@@ -1518,6 +1368,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guidelines and [SAFETY.md](S
 
 **⭐ If this directory helps you, star the repository and share a useful discovery.**
 
-*Discover. Learn. Build. Repeat.*
+_Discover. Learn. Build. Repeat._
 
 </div>

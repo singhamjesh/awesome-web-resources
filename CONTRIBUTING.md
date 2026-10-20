@@ -27,16 +27,32 @@ Good contributions include:
 
 ## Resource format
 
-Add websites to the appropriate section of `README.md` using:
+Add websites to the appropriate category table in `README.md`, two cards per row:
 
-```markdown
-| [Website Name](https://example.com/) | A concise, accurate description of what it does. |
+```html
+<td width="50%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=example.com&sz=128" width="48" height="48" alt="" />
+<br />
+<a href="https://example.com/"><strong>Website Name</strong> ↗</a>
+<br />
+<sub>↗ Category Name</sub>
+<br />
+A concise, accurate description of what it does.
+</td>
 ```
 
-For a GitHub project, use:
+For a GitHub project, use the repository URL the same way:
 
-```markdown
-| [Owner/Repository](https://github.com/owner/repository) | What it does and why it is useful. |
+```html
+<td width="50%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="48" height="48" alt="" />
+<br />
+<a href="https://github.com/owner/repository"><strong>Owner/Repository</strong> ↗</a>
+<br />
+<sub>↗ Category Name</sub>
+<br />
+What it does and why it is useful.
+</td>
 ```
 
 ## Trend entry format

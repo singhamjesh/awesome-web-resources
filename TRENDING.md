@@ -23,18 +23,88 @@ A separate place to track interesting open-source projects, viral repositories, 
 
 These are useful projects or project categories to investigate. Their inclusion here does **not** claim they are currently trending.
 
-| Project | Category | Why explore it? |
-|---|---|---|
-| [OpenCode](https://github.com/anomalyco/opencode) | AI coding | Open-source AI coding agent. |
-| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Generative AI | Node-based generative image and media workflows. |
-| [vLLM](https://github.com/vllm-project/vllm) | LLM infrastructure | Efficient LLM inference and serving. |
-| [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official) | AI extensions | Official Claude Code plugin collection. |
-| [Graphify](https://github.com/Graphify-Labs/graphify) | Code intelligence | Explore knowledge graphs for codebases and documents; inspect current maintenance. |
-| [Agency Agents](https://github.com/msitarzewski/agency-agents) | AI agents | Role-oriented AI agent prompts and workflows. |
-| [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) | OSINT | Phone-number information gathering from available sources. |
-| [RuView](https://github.com/ruvnet/ruview) | Wi-Fi sensing | Experimental spatial sensing project; review scope and privacy implications. |
-| [Chrome Extension Samples](https://github.com/GoogleChrome/chrome-extensions-samples) | Browser development | Official examples for Chrome extensions. |
-| [The Odin Project](https://github.com/TheOdinProject) | Learning | Open curriculum and web development learning resources. |
+<table>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/msitarzewski/agency-agents"><strong>Agency Agents</strong> ↗</a></h3>
+<p>↗ AI agents</p>
+<p>Role-oriented AI agent prompts and workflows.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/GoogleChrome/chrome-extensions-samples"><strong>Chrome Extension Samples</strong> ↗</a></h3>
+<p>↗ Browser development</p>
+<p>Official examples for Chrome extensions.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/anthropics/claude-plugins-official"><strong>Claude Plugins Official</strong> ↗</a></h3>
+<p>↗ AI extensions</p>
+<p>Official Claude Code plugin collection.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/Comfy-Org/ComfyUI"><strong>ComfyUI</strong> ↗</a></h3>
+<p>↗ Generative AI</p>
+<p>Node-based generative image and media workflows.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/Graphify-Labs/graphify"><strong>Graphify</strong> ↗</a></h3>
+<p>↗ Code intelligence</p>
+<p>Explore knowledge graphs for codebases and documents; inspect current maintenance.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/anomalyco/opencode"><strong>OpenCode</strong> ↗</a></h3>
+<p>↗ AI coding</p>
+<p>Open-source AI coding agent.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/sundowndev/phoneinfoga"><strong>PhoneInfoga</strong> ↗</a></h3>
+<p>↗ OSINT</p>
+<p>Phone-number information gathering from available sources.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/ruvnet/ruview"><strong>RuView</strong> ↗</a></h3>
+<p>↗ Wi-Fi sensing</p>
+<p>Experimental spatial sensing project; review scope and privacy implications.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/TheOdinProject"><strong>The Odin Project</strong> ↗</a></h3>
+<p>↗ Learning</p>
+<p>Open curriculum and web development learning resources.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://github.com/vllm-project/vllm"><strong>vLLM</strong> ↗</a></h3>
+<p>↗ LLM infrastructure</p>
+<p>Efficient LLM inference and serving.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+</table>
 
 ## 📊 How to decide whether a repo is genuinely trending
 

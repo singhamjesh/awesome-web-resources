@@ -55,3 +55,8 @@ Websites advertising certificate generation must not be used to fabricate medica
 ## Report a problem
 
 If a link becomes malicious, misleading, broken, or inappropriate, open an issue or pull request with the URL and a brief explanation. Do not include personal information, passwords, tokens, or other secrets in the report.
+
+
+## Abuse-prone services
+
+Some links in this directory relate to IP logging, identity lookup, or call-bombing services. They are listed for awareness and security education, not as endorsements. Do not use them to harass, impersonate, track, or collect data about anyone without permission. Prefer consent-based testing in a controlled environment.

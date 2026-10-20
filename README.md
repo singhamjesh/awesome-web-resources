@@ -46,6 +46,7 @@ A curated directory for developers, learners, makers, and curious internet explo
 - [🎨 UI, Design & Graphics](#-ui-design--graphics)
 - [🧰 APIs & Documentation](#-apis--documentation)
 - [📊 Productivity & Miscellaneous](#-productivity--miscellaneous)
+- [🔗 Additional Pages from the Original List](#-additional-pages-from-the-original-list)
 - [🤝 Contributing](#-contributing)
 
 ---
@@ -419,6 +420,21 @@ A curated directory for developers, learners, makers, and curious internet explo
 <tr><td colspan="2"><hr /></td></tr>
 </table>
 
+### Abuse-prone services & safety awareness
+
+<table>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=www.callbomberz.in&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.callbomberz.in/"><strong>CallBomberz</strong> ↗</a></h3>
+<p>↗ Abuse-prone services &amp; safety awareness</p>
+<p>Website advertising automated call bombing. Included for awareness only—not recommended for use against anyone; flooding a person's phone can cause harassment and disruption.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+</table>
+
+> **Safety note:** Do not use call/SMS bombing services to target other people. If you are receiving unwanted call or message floods, use your phone's spam protections and contact your carrier or the relevant cybercrime reporting service.
+
 ### Security research tools
 
 <table>
@@ -774,12 +790,27 @@ A curated directory for developers, learners, makers, and curious internet explo
 <tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
-<h3><a href="https://stowaway.live/"><strong>Stowaway ride</strong> ↗</a></h3>
+<h3><a href="https://stowaway.live/sky/ride/MWB7JGU5EUDZDPT"><strong>Stowaway ride — MWB7JGU5EUDZDPT</strong> ↗</a></h3>
 <p>↗ Space &amp; Satellite Tracking</p>
 <p>Specific ride/session URL; may be temporary or personal.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://stowaway.live/sky/ride/Y67FFMTAGBP9"><strong>Stowaway ride — Y67FFMTAGBP9</strong> ↗</a></h3>
+<p>↗ Space &amp; Satellite Tracking</p>
+<p>Specific ride/session URL; may be temporary or personal.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=stowaway.live&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://stowaway.live/sky/"><strong>Stowaway Sky</strong> ↗</a></h3>
+<p>↗ Space &amp; Satellite Tracking</p>
+<p>Sky-related visualization; current functionality not independently verified.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
 </table>
 
 > Check session-specific links before publishing them publicly. Remove them if they reveal private activity or are not meant to be shared.
@@ -1480,6 +1511,47 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 </table>
+
+
+## 🔗 Additional Pages from the Original List
+
+> Extra destinations from the original collection. Entries are alphabetically sorted by name; alternate pages from the same service are grouped together to avoid duplicate service cards.
+
+<table>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=grabify.org&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://grabify.org/"><strong>Grabify</strong> ↗</a></h3>
+<p>↗ OSINT, Privacy &amp; Digital Footprints</p>
+<p>IP-logging link service. Use only with informed consent. <a href="https://grabify.link/login">Alternate login page ↗</a></p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=portswigger.net&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://portswigger.net/"><strong>PortSwigger</strong> ↗</a></h3>
+<p>↗ Cybersecurity &amp; Ethical Hacking</p>
+<p>Official website for PortSwigger's web-security tools and learning resources. See also the <a href="https://portswigger.net/web-security">Web Security Academy ↗</a>.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=spiderrfoot.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://spiderrfoot.com/"><strong>SpiderFoot Website</strong> ↗</a></h3>
+<p>↗ OSINT &amp; Security Research</p>
+<p>Website supplied in the original list. Verify the domain and current purpose before using it; the open-source project is <a href="https://github.com/smicallef/spiderfoot">available on GitHub ↗</a>.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=theresanaiforthat.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://theresanaiforthat.com/s/dark+gpt/"><strong>There's An AI For That — Dark GPT Search</strong> ↗</a></h3>
+<p>↗ AI Tools &amp; Discovery</p>
+<p>A task-specific search page from the AI-tool directory. Treat results carefully and avoid tools intended for abuse or unauthorized access.</p>
+</td></tr>
+</table>
+
+---
 
 ## 🤝 Contributing
 

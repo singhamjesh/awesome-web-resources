@@ -836,11 +836,27 @@ A curated directory for developers, learners, makers, and curious internet explo
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=flexjobs.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.flexjobs.com/"><strong>Flexjobs</strong> ↗</a></h3>
+<p>↗ 💼 Career &amp; Jobs</p>
+<p>The #1 Job Site to Find Work From Home Jobs. No Ads, Scams, or Junk</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
 <td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128" width="72" height="72" alt="" /></td>
 <td valign="middle">
 <h3><a href="https://news.ycombinator.com/item?id=17902901"><strong>Hacker News job discussion</strong> ↗</a></h3>
 <p>↗ 💼 Career &amp; Jobs</p>
 <p>Older discussion link, not a current dedicated jobs board.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=instahyre.com&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://www.instahyre.com/"><strong>Instahyre</strong> ↗</a></h3>
+<p>↗ 💼 Career &amp; Jobs</p>
+<p>Showcase yourself to a curated list of top companies.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>
@@ -865,6 +881,22 @@ A curated directory for developers, learners, makers, and curious internet explo
 <h3><a href="https://www.profileme.dev/"><strong>ProfileMe.dev</strong> ↗</a></h3>
 <p>↗ 💼 Career &amp; Jobs</p>
 <p>Generate a GitHub profile README.</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=protocoljobs.ai&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://protocoljobs.ai/"><strong>Protocol Jobs</strong> ↗</a></h3>
+<p>↗ 💼 Career &amp; Jobs</p>
+<p>India's First Career Platform Built for Job Seekers, Not Employers</p>
+</td></tr>
+<tr><td colspan="2"><hr /></td></tr>
+<tr>
+<td width="100" align="center" valign="middle"><img src="https://www.google.com/s2/favicons?domain=remote.co&sz=128" width="72" height="72" alt="" /></td>
+<td valign="middle">
+<h3><a href="https://remote.co/"><strong>Remote Co</strong> ↗</a></h3>
+<p>↗ 💼 Career &amp; Jobs</p>
+<p>Browse thousands of remote and hybrid jobs tailored for you.</p>
 </td></tr>
 <tr><td colspan="2"><hr /></td></tr>
 <tr>

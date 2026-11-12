@@ -248,6 +248,17 @@ Third-party site advertising AI video generation; verify ownership, terms, and p
 Find alternatives to apps and services, including open-source options.
 </td>
 <td width="50%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=bestjson.com&sz=128" width="48" height="48" alt="" />
+<br />
+<a href="https://bestjson.com/"><strong>BestJSON</strong> ↗</a>
+<br />
+<sub>↗ Developer Tools &amp; Utilities</sub>
+<br />
+Format, validate, repair, compare, query, and convert JSON locally in your browser without uploading input.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=cobalt.tools&sz=128" width="48" height="48" alt="" />
 <br />
 <a href="https://cobalt.tools/"><strong>Cobalt</strong> ↗</a>
@@ -256,8 +267,6 @@ Find alternatives to apps and services, including open-source options.
 <br />
 Web-based media downloader for supported sources; follow source-site terms and copyright law.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=codesandbox.io&sz=128" width="48" height="48" alt="" />
 <br />
@@ -267,6 +276,8 @@ Web-based media downloader for supported sources; follow source-site terms and c
 <br />
 Online coding sandbox for web projects.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=devdocs.io&sz=128" width="48" height="48" alt="" />
 <br />
@@ -276,8 +287,6 @@ Online coding sandbox for web projects.
 <br />
 Search technical documentation for languages and libraries.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=app.eraser.io&sz=128" width="48" height="48" alt="" />
 <br />
@@ -287,6 +296,8 @@ Search technical documentation for languages and libraries.
 <br />
 Technical diagrams, architecture sketches, and collaborative documentation.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=excalidraw.com&sz=128" width="48" height="48" alt="" />
 <br />
@@ -296,8 +307,6 @@ Technical diagrams, architecture sketches, and collaborative documentation.
 <br />
 Create hand-drawn-style diagrams and technical sketches.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=github.com&sz=128" width="48" height="48" alt="" />
 <br />
@@ -307,6 +316,8 @@ Create hand-drawn-style diagrams and technical sketches.
 <br />
 Discover repositories gaining attention on GitHub.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=hoppscotch.io&sz=128" width="48" height="48" alt="" />
 <br />
@@ -316,8 +327,6 @@ Discover repositories gaining attention on GitHub.
 <br />
 Test HTTP requests and work with APIs in a browser.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=jsoncrack.com&sz=128" width="48" height="48" alt="" />
 <br />
@@ -327,6 +336,8 @@ Test HTTP requests and work with APIs in a browser.
 <br />
 Visualize JSON and supported structured data as graphs.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=markmap.js.org&sz=128" width="48" height="48" alt="" />
 <br />
@@ -336,8 +347,6 @@ Visualize JSON and supported structured data as graphs.
 <br />
 Convert Markdown outlines into interactive mind maps.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=ossinsight.io&sz=128" width="48" height="48" alt="" />
 <br />
@@ -347,6 +356,8 @@ Convert Markdown outlines into interactive mind maps.
 <br />
 Explore open-source project activity and GitHub analytics.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.producthunt.com&sz=128" width="48" height="48" alt="" />
 <br />
@@ -356,8 +367,6 @@ Explore open-source project activity and GitHub analytics.
 <br />
 Discover newly launched products and developer tools.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=regex101.com&sz=128" width="48" height="48" alt="" />
 <br />
@@ -367,6 +376,8 @@ Discover newly launched products and developer tools.
 <br />
 Test and debug regular expressions with explanations.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=replit.com&sz=128" width="48" height="48" alt="" />
 <br />
@@ -376,8 +387,6 @@ Test and debug regular expressions with explanations.
 <br />
 Browser-based development environment.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=roadmap.sh&sz=128" width="48" height="48" alt="" />
 <br />
@@ -387,6 +396,8 @@ Browser-based development environment.
 <br />
 Visual roadmaps for developer learning paths.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=squoosh.app&sz=128" width="48" height="48" alt="" />
 <br />

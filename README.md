@@ -1051,6 +1051,15 @@ Third-party game-download collection. Verify legality, file safety, and licensin
 <br />
 Current purpose not independently verified.
 </td>
+<td width="50%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=stagepeek.live&sz=128" width="48" height="48" alt="" />
+<br />
+<a href="https://stagepeek.live/"><strong>StagePeek</strong> ↗</a>
+<br />
+<sub>↗ Games &amp; Entertainment</sub>
+<br />
+Interactive 2D seating charts and 3D concert stage sightline previews across 201 global venues, with 1x-10x optical zoom and no login required.
+</td>
 </tr>
 </table>
 
